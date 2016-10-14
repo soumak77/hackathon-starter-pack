@@ -1,6 +1,6 @@
 {
   "name": "hackathon-starter-pack",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "start": "brunch watch --server",
     "prebuild": "(rm -r public || true) && (rm app/config/config-routes.js || true)",
